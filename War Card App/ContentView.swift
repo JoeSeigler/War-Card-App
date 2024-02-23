@@ -76,7 +76,7 @@ struct ContentView: View {
         //Randomize the cpu card
         cpuCard = "card" + String(Int.random(in: 2...14))
         //Update the score
-        
+        //blud
     }
 }
 #Preview {
